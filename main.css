@@ -1,0 +1,39 @@
+body{
+	margin:auto;
+	width: 80%;
+}
+#header .header-title h1{
+  font-size: 36px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+#header .header-title h2{
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+#header{
+	margin-bottom: 32px;
+	text-align:center;
+}
+.footer{
+  font-size: 18px;
+  text-align: center;
+  margin-top: 64px;
+  
+}
+p{
+	margin-bottom: 12px;
+}
+h1,h2,h3{
+	font-weight: 400;
+}
+hr{
+	height: 1px;
+	background-color: grey;
+	margin-bottom: 8px;
+}
+.main h2{
+	font-size: 32px;
+	border-bottom: 1px solid grey;
+}
